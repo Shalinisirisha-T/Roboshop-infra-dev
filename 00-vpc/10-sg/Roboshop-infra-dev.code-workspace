@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Terraform-aws-sg"
+		},
+		{
+			"path": "../../../Ansible-roboshop-roles-tf"
+		}
+	],
+	"settings": {}
+}
